@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "PierreFramework\\": "vendor/pierreframework",
+            "App\\": "src/apps",
+            "Model\\": "src/models",
+            "Entity\\": "src/entity"
+        }
+    }
+}
